@@ -39,7 +39,17 @@
   .topbarRight{
     flex: 4;
     display: flex;
+    /* background-color: yellow; */
+    align-items: center;
+    justify-content: space-around;
     
+  }
+  .searchInput{
+    border: none;
+
+  }
+  .topbarIcons{
+    display: flex;
   }
   .topbarImg {
     width: 32px;
