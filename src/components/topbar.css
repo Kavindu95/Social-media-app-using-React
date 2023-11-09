@@ -21,10 +21,12 @@
     color: white;
     cursor: pointer;
   }
+
   .logo h3{
     /* background-color: yellow; */
     margin-bottom: 45px;
   }
+
   .topbarcenter{
     flex: 4;
     /* background-color: greenyellow; */
