@@ -6,7 +6,7 @@ export default function Topbar() {
   return (
     <div className='topbarContainer'>
       <div className='topbarLeft '>
-        <span className='logo'><h3>Chat-me</h3></span>
+        <span className='logo'><h3>Circle-X</h3></span>
       </div>
       <div className='topbarcenter '>
         <div className='searchbar'>
@@ -34,7 +34,7 @@ export default function Topbar() {
           </div>
         </div>
         <div className='rightItem'>
-        <img src='/assets/person/1.jpeg' alt='' className='topbarImg' />
+        <img src='/assets/person/10.jpg' alt='' className='topbarImg' />
         </div>
         
       </div>
