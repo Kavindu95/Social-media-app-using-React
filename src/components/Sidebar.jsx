@@ -7,6 +7,8 @@ import { BsFillBookmarkStarFill } from "react-icons/bs";
 import { FaClipboardQuestion } from "react-icons/fa6";
 import { SiFramework } from "react-icons/si";
 import { MdEmojiEvents } from "react-icons/md";
+import { Users } from "../pages/dummyData";
+import CloseFriend from "../components/CloseFriend";
 
 
 export default function Sidebar() {
@@ -51,9 +53,9 @@ export default function Sidebar() {
 
         <hr className="sidebarHr" />
         <ul className="sidebarFriendList">
-          {/* {Users.map((u) => (
+          {Users.map((u) => (
             <CloseFriend key={u.id} user={u} />
-          ))} */}
+          ))}
         </ul>
 
       </div>
