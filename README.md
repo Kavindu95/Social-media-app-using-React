@@ -4,9 +4,14 @@ A social media app built using React, allowing users to share posts, interact wi
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![GIF 1](path/to/gif1.gif)
+![Screenshot 1](ss/1.png)
+![Screenshot 2](ss/2.png)
+![Screenshot 3](ss/3.png)
+![Screenshot 4](ss/4.png)
+![Screenshot 5](ss/5.png)
+![Screenshot 6](ss/6.png)
+![Screenshot 7](ss/7.png)
+
 
 ## Introduction
 
@@ -47,9 +52,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Your License Name] License - see the [LICENSE](Licence.txt) file for details.
 
 ## Acknowledgements
 
-- Hat tip to [Name] for inspiration and guidance.
+- Hat tip to [Mr. Ranjith Suranga] for inspiration and guidance.
 - Thanks to the React community for amazing support and resources.
